@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <html>
+    <head></head>
     <body>
         <h1>Jason King-Lowe</h1>
-        <p> am an IT Support Specialist with nearly 20 years of experience in technical support and I've been programming since I was a child. I started out coding applications for my family’s Commodore VIC 20 and have been fascinated with computers and technology ever since. My expertise spans remote troubleshooting, utilizing various tools and systems to diagnose, repair, and escalate issues. I am proficient in Windows, Lotus Notes, Microsoft Office, and various internally developed software suites.</p>
+        <h2><i>jmking2009@live.com | 612.978.7528 | Edina, MN</i></h2>
+        <h3><url>www.linkedin.com/in/jason-king-lowe</url></h3>
+        <div></div>
+        <h4>Professional Profile</h4>
+        <p> I am a former IT Support Specialist with nearly 20 years of experience in technical support and I've been programming since I was a child. I started out coding applications for my family’s Commodore VIC 20 and have been fascinated with computers and technology ever since. My expertise spans remote troubleshooting, utilizing various tools and systems to diagnose, repair, and escalate issues. I am proficient in Windows, Lotus Notes, Microsoft Office, and various proprietary software suites.</p>
 
         <p>My programming skills are self-taught. Currently, I am expanding my technical skillset by learning Python and SQL, and taking courses in data modeling. This continuous learning, combined with my experience in IT support, positions me well for roles in data analysis and software development.</p>
             
         <p>My approach to IT support is rooted in a customer-centric philosophy. I believe in building strong relationships with users, treating them with respect, empathy, and professionalism. I am dedicated to finding creative and effective solutions that not only resolve issues but also exceed user expectations. My proactive approach includes following up with users to verify issue resolution and prevent future problems.</p>
             
         <p>I am excited to leverage these skills and experiences in remote roles in data analysis and software development. I am eager about the opportunities that lie ahead and look forward to contributing my unique blend of skills to future endeavors.</p>
+        <div></div>
+        <h4>Professional Experience</h4>
+        <h5>Blue Cross Blue Shield of Minnesota</h5>
     </body>
 </html>
