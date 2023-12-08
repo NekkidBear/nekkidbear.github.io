@@ -48,3 +48,14 @@ ul {
     list-style-type: disc;
     margin-left: 20px;
 }
+/* Link styling */
+a {
+    color: #FFC107; /* Primary color for links */
+    text-decoration: none; /* Removes the underline */
+}
+
+/* Link hover styling */
+a:hover {
+    color: #FF5722; /* Secondary color for links when hovered */
+    text-decoration: underline; /* Adds an underline when hovered */
+}
