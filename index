@@ -3,10 +3,14 @@
     <head></head>
     <body>
         <section>
-            <div>
+            <div class = "Main Header">
                 <h1>Jason King-Lowe</h1>
                 <h2>jmking2009@live.com | 612.978.7528 | Edina, MN</h2>
                 <h2><url>www.linkedin.com/in/jason-king-lowe</url></h2>
+            </div>
+            <div class = Pfp>
+                <img src="https://media.licdn.com/dms/image/D5635AQG1uyyP4duQsg/profile-framedphoto-shrink_400_400/0/1699727955237?e=1702677600&v=beta&t=GBdUTTwHGzHFOzIAimnuQBWGY77xD0w85b0YEifyapE" alt="Jason's Profile Picture">
+            </div>
             <div>
                 <h2>Professional Profile</h2>
                 <p> I am a former IT Support Specialist with nearly 20 years of experience in technical support and I've been programming since I was a child. I started out coding applications for my family’s Commodore VIC 20 and have been fascinated with computers and technology ever since. My expertise spans remote troubleshooting, utilizing various tools and systems to diagnose, repair, and escalate issues. I am proficient in Windows, Lotus Notes, Microsoft Office, and various proprietary software suites.
