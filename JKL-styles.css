@@ -1,0 +1,50 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #FAFAFA; /* Text color */
+    background-color: #282828; /* Background color */
+    padding: 20px;
+}
+
+/* Header styling */
+.Main-Header {
+    background: #333;
+    color: #FFC107; /* Primary color for headings */
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Profile picture styling */
+.Pfp img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+/* Section headings styling */
+h2 {
+    font-size: 20px;
+    margin-top: 40px;
+    color: #FFC107; /* Primary color for headings */
+}
+
+/* Subheadings styling */
+h3 {
+    color: #FF5722; /* Secondary color for subheadings */
+}
+
+/* Contact information styling */
+.contact-info {
+    font-size: 16px;
+    color: #888;
+}
+
+/* List styling */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
